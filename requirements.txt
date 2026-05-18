@@ -1,0 +1,11 @@
+# Computer vision & display
+opencv-python>=4.8.0
+
+# AI / vehicle detection  (optional — auto-falls back to demo)
+ultralytics>=8.0.0
+
+# Numerical computation
+numpy>=1.24.0
+
+# Performance charts
+matplotlib>=3.7.0
