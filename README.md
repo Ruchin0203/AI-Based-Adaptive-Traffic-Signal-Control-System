@@ -11,7 +11,7 @@
 **Camera-only adaptive traffic signal controller for Indian four-way intersections.**  
 **No buried sensors. No GPU. Runs on a standard laptop.**
 
-[**Live Demo**](#demo-scenarios) · [**Quick Start**](#quick-start) · [**How It Works**](#how-it-works) · [**Results**](#results) · [**Research Paper**](#research-paper)
+[**Demo scenarios**](#demo-scenarios) · [**Quick Start**](#quick-start) · [**How It Works**](#how-it-works) · [**Results**](#results) · [**Research Paper**](#research-paper)
 
 </div>
 
