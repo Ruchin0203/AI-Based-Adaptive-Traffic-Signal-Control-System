@@ -344,7 +344,7 @@ VEHICLE_WEIGHT  = {3: 0.5, 2: 1.0, 5: 2.5, 7: 3.0}
 #                  ^moto    ^car    ^bus    ^truck
 
 # ── Detection ─────────────────────────────────────────────────────
-DETECTION_INTERVAL   = 15    # Run YOLOv8 every N frames (~2 Hz at 30 FPS)
+DETECTION_INTERVAL   = 15    # Run YOLOv8 every N frames (~2 Hz at 15 FPS)
 CONFIDENCE_THRESHOLD = 0.40  # Minimum confidence to count a detection
 
 # ── Demo ──────────────────────────────────────────────────────────
@@ -382,7 +382,7 @@ DEMO_SCENARIO = "one_heavy"  # Default scenario on startup
 | Metric | Value |
 |--------|-------|
 | Inference time per frame | < 34 ms (Ryzen R5, CPU only) |
-| Concurrent camera threads | 4 × YOLOv8-nano at ~30 FPS |
+| Concurrent camera threads | 4 × YOLOv8-nano at ~15 FPS |
 | Peak RAM usage | ≈ 448 MB |
 | GPU required | ❌ None |
 | Buried sensors required | ❌ None |
@@ -443,7 +443,7 @@ This project is released under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ at **Adani University, Ahmedabad** · B.Tech CSE (AI-ML) 2024–25
+Made with ❤️ at **Adani University, Ahmedabad** · B.Tech CSE (AI-ML) 2025-26
 
 ⭐ If this project helped you, please consider giving it a star!
 
